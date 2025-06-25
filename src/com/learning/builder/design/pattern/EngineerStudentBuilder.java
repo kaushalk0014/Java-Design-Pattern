@@ -1,5 +1,5 @@
 package com.learning.builder.design.pattern;
 
-public class EngineerStudentBuilder {
+public class EngineerStudentBuilder extends StudentBuilder{
 
 }

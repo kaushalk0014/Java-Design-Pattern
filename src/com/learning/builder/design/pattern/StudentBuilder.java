@@ -70,6 +70,8 @@ public abstract class StudentBuilder {
 		return subject;
 	}
 	
-	
+	public Student build() {
+		return new Student();
+	} 
 	
 }
